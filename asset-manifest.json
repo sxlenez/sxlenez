@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sxlenez-react/static/css/main.629b42ea.css",
-    "main.js": "/sxlenez-react/static/js/main.73348a1b.js",
-    "static/js/453.c291dc25.chunk.js": "/sxlenez-react/static/js/453.c291dc25.chunk.js",
-    "static/media/work4.jpg": "/sxlenez-react/static/media/work4.21f1d619e8f0cb7f10a7.jpg",
-    "static/media/testimonial3.png": "/sxlenez-react/static/media/testimonial3.936a84f4b0c13b9fc694.png",
-    "static/media/work2.jpg": "/sxlenez-react/static/media/work2.2c44eab87dc25bfbcb55.jpg",
-    "static/media/work5.jpg": "/sxlenez-react/static/media/work5.8ecad61b3cef30e3d12f.jpg",
-    "static/media/testimonial2.png": "/sxlenez-react/static/media/testimonial2.1b7fd820e3872280988a.png",
-    "static/media/profile.jpg": "/sxlenez-react/static/media/profile.7b46dd069abd23c33dea.jpg",
-    "static/media/work1.jpg": "/sxlenez-react/static/media/work1.f87ff689f6b0046c20e0.jpg",
-    "static/media/work3.jpg": "/sxlenez-react/static/media/work3.f87ff689f6b0046c20e0.jpg",
-    "static/media/about.jpg": "/sxlenez-react/static/media/about.2fb72505bbce17e0f44e.jpg",
-    "static/media/testimonial1.png": "/sxlenez-react/static/media/testimonial1.e53116339940cb877557.png",
-    "index.html": "/sxlenez-react/index.html",
-    "main.629b42ea.css.map": "/sxlenez-react/static/css/main.629b42ea.css.map",
-    "main.73348a1b.js.map": "/sxlenez-react/static/js/main.73348a1b.js.map",
-    "453.c291dc25.chunk.js.map": "/sxlenez-react/static/js/453.c291dc25.chunk.js.map"
+    "main.css": "/sxlenez/static/css/main.c11483e3.css",
+    "main.js": "/sxlenez/static/js/main.99169836.js",
+    "static/js/453.c291dc25.chunk.js": "/sxlenez/static/js/453.c291dc25.chunk.js",
+    "static/media/work4.jpg": "/sxlenez/static/media/work4.21f1d619e8f0cb7f10a7.jpg",
+    "static/media/testimonial3.png": "/sxlenez/static/media/testimonial3.936a84f4b0c13b9fc694.png",
+    "static/media/work2.jpg": "/sxlenez/static/media/work2.2c44eab87dc25bfbcb55.jpg",
+    "static/media/work5.jpg": "/sxlenez/static/media/work5.8ecad61b3cef30e3d12f.jpg",
+    "static/media/testimonial2.png": "/sxlenez/static/media/testimonial2.1b7fd820e3872280988a.png",
+    "static/media/profile.jpg": "/sxlenez/static/media/profile.7b46dd069abd23c33dea.jpg",
+    "static/media/work1.jpg": "/sxlenez/static/media/work1.f87ff689f6b0046c20e0.jpg",
+    "static/media/work3.jpg": "/sxlenez/static/media/work3.f87ff689f6b0046c20e0.jpg",
+    "static/media/about.jpg": "/sxlenez/static/media/about.2fb72505bbce17e0f44e.jpg",
+    "static/media/testimonial1.png": "/sxlenez/static/media/testimonial1.e53116339940cb877557.png",
+    "index.html": "/sxlenez/index.html",
+    "main.c11483e3.css.map": "/sxlenez/static/css/main.c11483e3.css.map",
+    "main.99169836.js.map": "/sxlenez/static/js/main.99169836.js.map",
+    "453.c291dc25.chunk.js.map": "/sxlenez/static/js/453.c291dc25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.629b42ea.css",
-    "static/js/main.73348a1b.js"
+    "static/css/main.c11483e3.css",
+    "static/js/main.99169836.js"
   ]
 }
